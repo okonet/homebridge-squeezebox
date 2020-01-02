@@ -1,5 +1,5 @@
 var inherits = require('util').inherits,
-	LMS = require('squeezenode-lordpengwin'),
+	LMS = require('squeezenode-auth'),
 	Squeezebox;
 
 var Accessory, Characteristic, Service, VolumeCharacteristic, UUIDGen;
